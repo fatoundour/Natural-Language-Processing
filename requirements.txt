@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+nltk
+numpy
+pandas
+matplotlib
+scikit-learn
+beautifulsoup4
+requests
+tqdm
+sacremoses
+wget
