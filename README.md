@@ -1,6 +1,6 @@
-# Natural Language Processing (NLP) — Travaux pratiques
+# Natural Language Processing (NLP) - Travaux pratiques
 
-> **M2 Mathématiques et Informatique appliquées à la Science des Données (MIDS) — Université Paris Cité**  
+> **M2 Mathématiques et Informatique appliquées à la Science des Données (MIDS) - Université Paris Cité**  
 > **Fatoumata NDOUR**
 
 ## Présentation
