@@ -14,8 +14,8 @@ Il s'agit d'un **portfolio de TP pédagogiques** et non d'un projet applicatif u
 | TP | Thématique | Notions mises en pratique | Notebook |
 | --- | --- | --- | --- |
 | **TP1** | Expressions régulières et loi de Zipf | Manipulation de textes, expressions régulières, fréquences lexicales et visualisations | [Regex et Zipf](TP1_Fondamentaux/regex_zipf.ipynb) |
-| **TP2 — partie 1** | Représentations vectorielles | Couches d'embeddings avec PyTorch et opérations sur les tenseurs | [Embeddings](TP2_Modeles_Neuronaux/embeddings.ipynb) |
-| **TP2 — partie 2** | Modèles de langage neuronaux | Architecture d'un modèle de langage, préparation de données textuelles et apprentissage avec PyTorch | [Modèle de langage neuronal](TP2_Modeles_Neuronaux/neural_language_model.ipynb) |
+| **TP2 - partie 1** | Représentations vectorielles | Couches d'embeddings avec PyTorch et opérations sur les tenseurs | [Embeddings](TP2_Modeles_Neuronaux/embeddings.ipynb) |
+| **TP2 - partie 2** | Modèles de langage neuronaux | Architecture d'un modèle de langage, préparation de données textuelles et apprentissage avec PyTorch | [Modèle de langage neuronal](TP2_Modeles_Neuronaux/neural_language_model.ipynb) |
 | **TP3** | Transformers | Tokenisation, représentation des séquences et mécanismes d'attention | [Tokenisation et attention](TP3_Transformers/tokenization_attention.ipynb) |
 | **TP4** | Modèles préentraînés | Adaptation (*fine-tuning*) d'un modèle de langage préentraîné pour la classification de documents | [Classification de documents](TP4_Fine_Tuning/document_classification.ipynb) |
 | **TP5** | Few-shot prompting | Expérimentation de prompts contenant des exemples pour orienter les prédictions | [Few-shot prompting](TP5_Prompting/few_shot_prompting.ipynb) |
